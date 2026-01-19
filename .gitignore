@@ -7,6 +7,8 @@
 # 폴더는 폴더명/   로 작성합니다. 
 st/
 
+.env
+
 # ! not
 # txt 확장자인 파일을 다 제외할 건데 requirements.txt 파일은 제외하지 않겠다.
 !requirements.txt
